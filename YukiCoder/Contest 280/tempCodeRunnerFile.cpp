@@ -1,0 +1,2 @@
+
+            int twoVal = two[j];
